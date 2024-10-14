@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTPR_C_SHARP_FinForm", "OTPR_C_SHARP_FinForm.csproj", "{260867E3-BCDA-4415-9F15-63C1D0B381E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260867E3-BCDA-4415-9F15-63C1D0B381E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260867E3-BCDA-4415-9F15-63C1D0B381E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260867E3-BCDA-4415-9F15-63C1D0B381E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260867E3-BCDA-4415-9F15-63C1D0B381E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E380B066-E36A-4C8E-A2AD-105D8F1D60F4}
+	EndGlobalSection
+EndGlobal
